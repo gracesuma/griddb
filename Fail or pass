@@ -1,0 +1,7 @@
+S1=int(input ())
+S2=int(input())
+S3=int(input ())
+if S2>=35 and S1>=35 and S3>=35:
+Print ("pass")
+else: 
+Print ("fail")
